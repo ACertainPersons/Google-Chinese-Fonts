@@ -1,4 +1,4 @@
-# Google-Chinese-Webfonts-Early-Access-
+# Google Chinese Fonts (Only Available through Early Access)
 I am not in anyway associated to Google.
 
 
