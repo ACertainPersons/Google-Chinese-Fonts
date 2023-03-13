@@ -10,4 +10,5 @@ These fonts can only be accessed through the Google WebFont API or Wayback Machi
 
 These fonts are licensed under [SIL Open Font License](http://fonts.gstatic.com/ea/cwtexfangsong/v3/OFL.txt) according to an archived version of Google Fonts' Website. (https://web.archive.org/web/20161213000426/https://fonts.google.com/earlyaccess)
 
-根據 Google Fonts 的網頁 (https://web.archive.org/web/20161213000426/https://fonts.google.com/earlyaccess)，這些字體是用 [SIL Open Font License](http://fonts.gstatic.com/ea/cwtexfangsong/v3/OFL.txt) 授權。
+根據 Google Fonts 的網頁 (https://web.archive.org/web/20161213000426/https://fonts.google.com/earlyaccess)
+，這些字體是用 [SIL Open Font License](http://fonts.gstatic.com/ea/cwtexfangsong/v3/OFL.txt) 授權。
