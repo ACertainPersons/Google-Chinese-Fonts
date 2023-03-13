@@ -1,4 +1,4 @@
-# Google Chinese Fonts (Only Available through Early Access)
+# Google Hidden Chinese Fonts (Only Available through Early Access)
 I am not in anyway associated to Google.
 
 我和 Google 絕無關聯。
